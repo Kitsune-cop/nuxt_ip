@@ -1,13 +1,13 @@
 <template lang="html">
-  <div>
-    home
-  </div>
+    <div>
+        addmin
+    </div>
 </template>
 <script>
 export default {
-  layout: 'user',
+    layout: 'admin'
 }
 </script>
 <style lang="css">
-  
+    
 </style>
