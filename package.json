@@ -19,7 +19,8 @@
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10",
-    "vuetify": "^2.6.10"
+    "sass": "^1.51.0",
+    "vuetify": "^3.0.1"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.12.3",
